@@ -1,0 +1,15 @@
+DATABASE DESCRIPTION FOR IRENE
+
+Purpose:
+The database is a continuity and safety layer for a psychology practice.
+It is not designed to replace clinical judgement. It is designed to show who is responsible for each client, whether each client has a next appointment, who covers the client if the clinician is away, whether a handover is complete, whether staff are overloaded, whether manager action is needed, and what evidence exists that follow-up occurred.
+
+Suggested real-world database sections:
+1. Clients: client ID, initials, primary clinician, backup clinician, frequency, next booking, care-gap status.
+2. Staff: capacity, booked sessions, high-support client count, leave, overload flag.
+3. Appointments: date, status, cancellation reason, rebooked date.
+4. Handovers: from clinician, to clinician, checklist, manager sign-off.
+5. Alerts: colour, reason, action, owner, due date, closed date.
+6. Audit log: who changed what, when and why.
+
+Real use would require privacy, security, consent, access control, audit logging and professional review.

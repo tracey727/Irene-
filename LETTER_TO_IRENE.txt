@@ -1,0 +1,57 @@
+Dear Irene,
+
+I wanted to show you something I made with care and respect.
+
+This is not meant as criticism of you, your staff, or the work your practice has done for me. I know everyone has been trying, and I understand that staff illness, surgery, leave, workload and client needs can create real pressure in a psychology practice.
+
+The reason I made this demo is because I could see a pattern that Genevieve App™ may be able to help with: continuity of care, staff workload, handovers, leave cover, appointment gaps, manager visibility and evidence of follow-up.
+
+I have named the demo:
+
+IRENE Clinic Continuity & Safety Board
+Powered by GENEVIEVE App™
+
+The demo uses fake clients and fake staff only. It is not live clinical software and it does not contain real patient information.
+
+What the demo is designed to show:
+
+1. Client continuity
+The board can show whether every client has a primary clinician, a backup clinician, a next appointment booked, a safe follow-up window, a handover completed if staff change, and a manager action if they are at risk of falling through the cracks.
+
+2. Staff workload and fairness
+It can show whether staff are overloaded, carrying too many high-support clients, going on leave, cancelling frequently, or needing backup. This is not to blame staff. It is to protect staff before they burn out.
+
+3. Leave and surgery cover
+Before a clinician goes away, the system can ask who covers each client, whether the client has been told, whether the handover has been written, whether the next appointment is booked, and whether the manager needs to approve anything.
+
+4. Handover safety
+If a client has to move from one clinician to another, Genevieve can create a checklist so the next person is not walking in blind and the client does not have to keep starting again.
+
+5. Insurance and evidence support
+The system can create a simple audit trail showing what was noticed, who was responsible, when action was taken, and what still needs follow-up. This could help the practice show that reasonable steps were taken to protect clients, support staff, and manage risk. I know this would need legal, privacy and clinical governance review before real use.
+
+6. Better quality across the practice
+Genevieve could help reduce missed care gaps, reduce last-minute scrambling, improve admin visibility, help staff communicate clearly, help clients feel held and not forgotten, improve manager oversight, support safer leave planning, identify overload earlier, improve client experience, improve staff experience, and save time and money by preventing avoidable chaos.
+
+I want to be very clear that I made this because I care. I am not trying to tell you how to run your practice. I am trying to show how the system I am building could support what you are already trying to do.
+
+Genevieve App™ is built around coloured warning logic:
+- Green: covered and stable
+- Amber: check soon
+- Red: manager action required
+- Black/Urgent: immediate safety pathway
+
+For your practice, the goal would be simple:
+
+No client gets lost.
+No staff member gets overloaded in silence.
+No owner has to scramble without visibility.
+No handover happens without a plan.
+
+This demo is only a conversation starter. If you think it could help, I would be grateful for your feedback.
+
+With respect,
+
+Tracey Kennedy
+GENEVIEVE App™
+Created: 2026-07-11

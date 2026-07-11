@@ -1,0 +1,27 @@
+{
+  "required_present": true,
+  "node_returncode": 0,
+  "node_error": "",
+  "no_package_json": true,
+  "no_node_modules": true,
+  "files": [
+    "BUILD_VERIFICATION.json",
+    "DATABASE_DESCRIPTION_FOR_IRENE.txt",
+    "DEPLOYMENT_INSTRUCTIONS.txt",
+    "LETTER_TO_IRENE.txt",
+    "README.md",
+    "_redirects",
+    "app.js",
+    "assets/irene-demo-icon.svg",
+    "index.html",
+    "manifest.webmanifest",
+    "netlify.toml",
+    "privacy.html",
+    "robots.txt",
+    "safety.html",
+    "styles.css",
+    "sw.js",
+    "terms.html",
+    "vercel.json"
+  ]
+}
