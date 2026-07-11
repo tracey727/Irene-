@@ -1,13 +1,13 @@
 {
-  "name": "IRENE Clinic Continuity Safety Board Demo",
-  "short_name": "Irene Demo",
+  "name": "IRENE Practice Flow Staff Support Assistant Demo V3",
+  "short_name": "Irene Support V3",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#fbfffd",
   "theme_color": "#243b55",
   "icons": [
     {
-      "src": "./assets/irene-demo-icon.svg",
+      "src": "./assets/irene-support-icon.svg",
       "sizes": "128x128",
       "type": "image/svg+xml"
     }

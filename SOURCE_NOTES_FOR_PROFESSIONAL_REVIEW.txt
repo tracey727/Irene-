@@ -1,0 +1,12 @@
+SOURCE NOTES FOR PROFESSIONAL REVIEW
+
+This demo should be reviewed against current Australian requirements before real use.
+
+Useful reference areas:
+- Safe Work Australia psychosocial hazards guidance: high job demands, low support, poor organisational change management, traumatic material and role clarity can be psychosocial hazards.
+- Queensland WorkSafe code of practice for managing psychosocial hazards at work.
+- Psychology Board of Australia professional competencies include self-care to sustain professional functioning and wellbeing.
+- Fair Work Ombudsman / relevant award or employment contract should be checked for break and employment entitlement rules.
+- OAIC health privacy guidance should be checked before real client or staff health information is entered.
+
+This demo does not certify compliance.

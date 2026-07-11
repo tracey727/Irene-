@@ -1,0 +1,16 @@
+DATABASE DESCRIPTION FOR IRENE
+
+This is a support, continuity and workload database for a psychology practice.
+
+It is not designed to replace clinical judgement. It is designed to reduce mental load, make support needs visible, protect staff, and prevent client care gaps.
+
+Database areas:
+1. Staff Profiles: role, preferred working pattern, break needs, max daily sessions, high-support limit, support/debrief preference.
+2. Staff Daily Check-ins: break started, break finished, admin buffer taken, support needed, debrief needed, end-of-day okay.
+3. Workload Settings: tailored max sessions, high-support limit, break timing, admin buffer, leave cover warning, care-gap timing.
+4. Clients: primary clinician, backup clinician, appointment frequency, next booking, handover status, care-gap status.
+5. Support Requests: staff member, support type, urgency, manager response, closed time.
+6. Learning Patterns: missed breaks, repeated overload, admin bottlenecks, high-support load, care-gap patterns.
+7. Audit Log: who clicked what, when, what action was taken and what remains open.
+
+Real use would require privacy, security, consent, role-based access, staff consultation, legal review, workplace safety review and clinical governance.

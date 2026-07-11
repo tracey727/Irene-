@@ -1,0 +1,65 @@
+Dear Irene,
+
+I wanted to show you something I have built with care, respect, and genuine appreciation for the work you and your team have been doing.
+
+I have updated the demo so the title feels more supportive and less confronting.
+
+The new name is:
+
+IRENE Practice Flow & Staff Support Assistant
+Powered by GENEVIEVE App™
+DEMO ONLY — fake data only
+
+This is not intended as criticism of you, your staff, or the practice. I know your staff are amazing, and they have helped me more than anyone would ever imagine. I also understand that a psychology practice carries heavy emotional work, appointment pressure, cancellations, staff illness, leave, surgery cover, admin load, urgent client needs and constant decision-making.
+
+The reason I made this is because I want Genevieve to help protect the people who are helping us.
+
+This demo is designed to sit alongside workers, not over them. It helps staff tick off what they need during the day, such as:
+
+- break started
+- break finished
+- admin buffer taken
+- debrief/support needed
+- manager support needed
+- handover complete
+- next client covered
+- urgent care-gap action completed
+
+The purpose is to make invisible pressure visible before staff become overloaded.
+
+The system can show Irene, or someone Irene chooses, where help is needed:
+
+- which staff have missed a break
+- which staff have too many high-support clients
+- which staff have too many sessions in a day
+- who needs admin time
+- who needs a debrief after difficult sessions
+- who is carrying repeated cancellations or rebooking pressure
+- which clients have no next appointment
+- which handovers are incomplete
+- where leave cover is not safe yet
+
+The colour system is simple:
+
+GREEN — covered, supported, stable
+AMBER — check soon, break due, support may be needed
+RED — action needed today, workload or care-gap risk
+BLACK / URGENT — immediate safety pathway
+
+I also added a settings area so Irene or someone she trusts can tailor the system to the practice. For example, the practice can adjust maximum sessions per day, high-support caseload limits, break reminder timing, admin buffer time, debrief requirements, leave cover warning days, care-gap timing and support escalation rules.
+
+Genevieve can also learn from data over time. It can notice patterns like breaks being missed repeatedly, a clinician carrying too many high-support clients, admin overload causing rebooking gaps, certain days becoming unsafe, leave periods creating care gaps, staff requesting support more often, and clients being passed around without a completed handover.
+
+This could help Irene save time, reduce brain load, support insurance/risk evidence, improve staff wellbeing, improve client continuity, and create better quality across the practice.
+
+Most importantly, this is not about blaming anyone. It is about creating a supportive system so staff can keep helping people without being drained, forgotten, or overloaded.
+
+The demo uses fake data only. It is not live clinical software and does not contain real client or staff information. A real version would need Irene’s approval, privacy/legal review, clinical governance review, staff consultation, secure access controls, audit logs and professional advice before any real information is used.
+
+I made this because I care and because I can see how hard everyone is trying.
+
+With respect,
+
+Tracey Kennedy
+GENEVIEVE App™
+Created: 2026-07-11
